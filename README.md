@@ -19,12 +19,8 @@ Pandas: Data manipulation and analysis library.
 
 List of largest companies in the United States by revenue
 
-📁 Project Structure
-/Web-Scraping
-│
-├── WebScrapingproject.ipynb       # Jupyter Notebook containing the scraping and analysis code
-├── largest_companies_2023.csv     # Output CSV file with the scraped data
-└── README.md                     # Project documentation
+https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue
+
 
 🚀 How to Run
 
