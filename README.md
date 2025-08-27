@@ -1,4 +1,6 @@
 Web Scraping and Data Analysis of Fortune 500 Companies using Python
+
+
 📌 Project Overview
 
 This project demonstrates how to extract and analyze data from Wikipedia's list of the largest U.S. companies by revenue. Utilizing Python libraries such as BeautifulSoup and Pandas, the script scrapes the table, processes the data, and exports it into a CSV file for further analysis.
